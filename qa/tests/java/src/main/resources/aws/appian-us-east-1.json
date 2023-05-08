@@ -1,8 +1,0 @@
-{
-  "AccessKeyID": "AKIAYVBIIM4QD32CHR4E",
-  "SecretKeyID": "yQnr2ICh1GwHS3ypB7KtHRHYqKDnDDvj3/pTUSsV",
-  "Input bucket": "appian-us-east-1-production-inputbucket",
-  "Output bucket": "appian-us-east-1-production-outputbucket",
-  "Output queue": "appian-us-east-1-production-outputqueue",
-  "Client region": "us-east-1"
-}
