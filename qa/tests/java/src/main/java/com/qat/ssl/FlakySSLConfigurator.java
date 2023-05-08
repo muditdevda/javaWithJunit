@@ -1,4 +1,4 @@
-package com.dfs.ssl;
+package com.qat.ssl;
 
 import java.security.cert.X509Certificate;
 

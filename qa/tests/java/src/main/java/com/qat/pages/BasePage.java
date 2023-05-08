@@ -1,6 +1,6 @@
-package com.dfs.pages;
+package com.qat.pages;
 
-import com.dfs.selenium.DriverManager;
+import com.qat.selenium.DriverManager;
 
 public class BasePage extends DriverManager{
 

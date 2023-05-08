@@ -1,4 +1,4 @@
-package com.dfs.helper.tools;
+package com.qat.helper.tools;
 
 import java.util.Random;
 import java.util.UUID;

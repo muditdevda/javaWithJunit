@@ -1,4 +1,4 @@
-package com.dfs.helper.files;
+package com.qat.helper.files;
 
 import java.io.IOException;
 import java.io.InputStream;

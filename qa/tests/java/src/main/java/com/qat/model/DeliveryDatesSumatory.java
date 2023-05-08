@@ -1,4 +1,4 @@
-package com.dfs.model;
+package com.qat.model;
 
 
 import java.sql.Timestamp;

@@ -1,6 +1,6 @@
-package com.dfs.helper.files;
+package com.qat.helper.files;
 
-import com.dfs.helper.properties.PropertiesHelper;
+import com.qat.helper.properties.PropertiesHelper;
 import io.qameta.allure.Step;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

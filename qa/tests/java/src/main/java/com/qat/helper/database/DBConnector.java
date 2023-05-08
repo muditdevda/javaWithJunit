@@ -1,4 +1,4 @@
-package com.dfs.helper.database;
+package com.qat.helper.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -7,8 +7,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-import com.dfs.helper.properties.PropertiesHelper;
-import com.dfs.model.DeliveryDatesSumatory;
+import com.qat.helper.properties.PropertiesHelper;
+import com.qat.model.DeliveryDatesSumatory;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 import org.apache.commons.dbutils.handlers.BeanListHandler;
@@ -16,7 +16,7 @@ import org.awaitility.Awaitility;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.dfs.model.Request;
+import com.qat.model.Request;
 
 
 public class DBConnector {

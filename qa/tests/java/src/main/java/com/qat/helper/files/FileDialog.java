@@ -1,4 +1,4 @@
-package com.dfs.helper.files;
+package com.qat.helper.files;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.dfs.pages.BasePage;
+import com.qat.pages.BasePage;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

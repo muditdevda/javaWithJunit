@@ -1,15 +1,10 @@
-package com.dfs.helper.files.ftp;
+package com.qat.helper.files.ftp;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-/**
- * Use this wrapper to get access to test files
- * 
- * @author rr606266
- *
- */
+
 public class FTPTestFileProvider {
 
 	private FTPDownloader ftpDownloader;

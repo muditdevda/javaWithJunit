@@ -1,6 +1,6 @@
-package com.dfs.selenium;
+package com.qat.selenium;
 
-import com.dfs.helper.properties.PropertiesHelper;
+import com.qat.helper.properties.PropertiesHelper;
 import io.restassured.response.Response;
 import org.openqa.selenium.MutableCapabilities;
 import org.openqa.selenium.PageLoadStrategy;

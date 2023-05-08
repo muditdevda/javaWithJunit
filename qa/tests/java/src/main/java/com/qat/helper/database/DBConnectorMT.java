@@ -1,4 +1,4 @@
-package com.dfs.helper.database;
+package com.qat.helper.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import com.dfs.helper.properties.PropertiesHelper;
+import com.qat.helper.properties.PropertiesHelper;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 import org.slf4j.Logger;

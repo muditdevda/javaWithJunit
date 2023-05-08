@@ -1,4 +1,4 @@
-package com.dfs.selenium;
+package com.qat.selenium;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

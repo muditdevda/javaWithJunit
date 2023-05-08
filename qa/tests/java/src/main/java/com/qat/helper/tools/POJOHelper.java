@@ -1,4 +1,4 @@
-package com.dfs.helper.tools;
+package com.qat.helper.tools;
 
 import com.google.gson.Gson;
 import org.slf4j.LoggerFactory;

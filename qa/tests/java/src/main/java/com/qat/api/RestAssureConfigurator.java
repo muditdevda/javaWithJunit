@@ -1,4 +1,4 @@
-package com.dfs.api;
+package com.qat.api;
 
 import io.restassured.RestAssured;
 

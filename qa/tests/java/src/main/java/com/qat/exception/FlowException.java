@@ -1,10 +1,6 @@
-package com.dfs.exception;
+package com.qat.exception;
 
-/**
- * Generic exception for flow
- * @author rr606266
- *
- */
+
 public class FlowException extends DFSException {
 
 	private static final long serialVersionUID = 1L;

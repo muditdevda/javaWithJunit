@@ -1,4 +1,4 @@
-package com.dfs.helper.database;
+package com.qat.helper.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

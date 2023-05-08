@@ -1,4 +1,4 @@
-package com.dfs.selenium;
+package com.qat.selenium;
 
 public class WaitBuilder {
 

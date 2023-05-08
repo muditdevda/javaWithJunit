@@ -1,4 +1,4 @@
-package com.dfs.exception;
+package com.qat.exception;
 
 public class DFSException extends Exception {
 	private static final long serialVersionUID = -6053472156162047662L;

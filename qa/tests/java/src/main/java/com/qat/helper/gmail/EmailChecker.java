@@ -1,7 +1,7 @@
-package com.dfs.helper.gmail;
+package com.qat.helper.gmail;
 
-import com.dfs.helper.properties.PropertiesHelper;
-import com.dfs.pages.BasePage;
+import com.qat.helper.properties.PropertiesHelper;
+import com.qat.pages.BasePage;
 import com.google.api.client.auth.oauth2.Credential;
 import com.google.api.client.extensions.java6.auth.oauth2.AuthorizationCodeInstalledApp;
 import com.google.api.client.extensions.jetty.auth.oauth2.LocalServerReceiver;

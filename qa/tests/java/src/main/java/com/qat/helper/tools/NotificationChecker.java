@@ -1,4 +1,4 @@
-package com.dfs.helper.tools;
+package com.qat.helper.tools;
 import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.TimeoutException;
@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import java.time.Duration;
 import java.util.List;
 
-import static com.dfs.selenium.DriverManager.getDriver;
+import static com.qat.selenium.DriverManager.getDriver;
 
 public class NotificationChecker {
 

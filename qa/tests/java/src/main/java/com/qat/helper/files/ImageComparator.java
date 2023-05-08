@@ -1,4 +1,4 @@
-package com.dfs.helper.files;
+package com.qat.helper.files;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.net.URL;
 
 import org.apache.commons.io.IOUtils;
 
-import com.dfs.ssl.FlakySSLConfigurator;
+import com.qat.ssl.FlakySSLConfigurator;
 
 public class ImageComparator {
 

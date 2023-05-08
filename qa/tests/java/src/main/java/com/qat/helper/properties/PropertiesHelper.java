@@ -1,6 +1,6 @@
-package com.dfs.helper.properties;
+package com.qat.helper.properties;
 
-import com.dfs.selenium.DriverManager;
+import com.qat.selenium.DriverManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

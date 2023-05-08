@@ -1,4 +1,4 @@
-package com.dfs.helper.files;
+package com.qat.helper.files;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -14,8 +14,8 @@ import java.util.Enumeration;
 import java.util.List;
 import java.util.Properties;
 
-import com.dfs.helper.properties.PropertiesHelper;
-import com.dfs.helper.database.DBConnector;
+import com.qat.helper.properties.PropertiesHelper;
+import com.qat.helper.database.DBConnector;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

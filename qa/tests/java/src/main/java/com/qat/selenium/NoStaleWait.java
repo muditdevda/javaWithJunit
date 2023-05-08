@@ -1,4 +1,4 @@
-package com.dfs.selenium;
+package com.qat.selenium;
 
 import java.time.Duration;
 
@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 
-import com.dfs.helper.properties.PropertiesHelper;
+import com.qat.helper.properties.PropertiesHelper;
 
 public class NoStaleWait extends FluentWait<WebDriver> {
 	private PropertiesHelper propertiesHelper = new PropertiesHelper();

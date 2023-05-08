@@ -1,4 +1,4 @@
-package com.dfs.selenium;
+package com.qat.selenium;
 
 import java.io.File;
 import java.io.IOException;

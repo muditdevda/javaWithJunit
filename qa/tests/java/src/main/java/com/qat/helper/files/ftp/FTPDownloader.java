@@ -1,4 +1,4 @@
-package com.dfs.helper.files.ftp;
+package com.qat.helper.files.ftp;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
