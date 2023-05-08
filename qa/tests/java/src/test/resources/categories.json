@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Skipped tests",
+		"messageRegex": ".*",
+		"matchedStatuses": ["skipped"]
+	},
+	{
+		"name": "Known issue",
+		"messageRegex": ".*Known issue.*"
+	},
+	{
+		"name": "Passed tests",
+		"matchedStatuses": ["passed"]
+	}
+]

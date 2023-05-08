@@ -1,0 +1,138 @@
+{
+  "text_field": [
+    {
+      "name": " Customer Text Field Name",
+      "description": "Customer Text Field Description",
+      "identifier": "customer_text_field",
+      "type": "Text Field",
+      "min": 5,
+      "max": 30
+    },
+    {
+      "name": " Customer2 Text Field Name",
+      "description": "Customer2 Text Field Description",
+      "identifier": "customer_text_field2",
+      "type": "Text Field"
+    },
+    {
+      "name": "Text Field Name",
+      "description": "Text Field Description",
+      "identifier": "12345-67890-13579",
+      "type": "Text Field"
+    },
+    {
+      "name": "Text Field Name",
+      "description": "Text Field Description",
+      "identifier": "12345-67890-13579",
+      "type": "Text Field"
+    },
+    {
+      "name": "Customer Text Field Name with blank",
+      "description": "BU Text Field Description with blank",
+      "identifier": " _my customer blanks",
+      "type": "Text Field"
+    }
+  ],
+  "combo_box": [
+    {
+      "name": "Customer Combo Box Name",
+      "description": "Customer Combo Box Description",
+      "identifier": "customer_combo_box",
+      "type": "Combo Box",
+      "values": [
+        "Combo Box 1",
+        "Combo Box 2",
+        "Combo Box 3"
+      ]
+    }
+  ],
+  "list": [
+    {
+      "name": "Customer List Name",
+      "description": "Customer ListDescription",
+      "identifier": "customer_list",
+      "type": "List",
+      "values": [
+        "List Value 1",
+        "List Value 2",
+        "List Value 3"
+      ]
+    },
+    {
+      "name": "Customer List Name with special chars",
+      "description": "Customer List Description with special chars",
+      "identifier": "*>customer_special_chars",
+      "type": "List",
+      "values": [
+        "> val 1'",
+        "> val 2'",
+        "> val 3'"
+      ]
+    },
+    {
+      "name": "Customer List Name scape",
+      "description": "Customer List Description scape",
+      "identifier": "< customer_scape >",
+      "type": "List",
+      "values": [
+        "< scape1 >",
+        "< scape2 >",
+        "< scape3 >"
+      ]
+    },
+    {
+      "name": "Customer List Name with blanks",
+      "description": "Customer List Description with blanks",
+      "identifier": " _blanks_cu",
+      "type": "List",
+      "values": [
+        " blank 1",
+        " blank 2",
+        " blank 3"
+      ]
+    }
+  ],
+  "check_box":[
+    {
+      "name": "Customer Check Box Name",
+      "description": "Customer Check Box Description",
+      "identifier": "customer_check_box",
+      "type": "Check Box"
+    }
+  ],
+  "multi_combo": [
+    {
+      "name": "Customer Multi Combo Box Name",
+      "description": "Customer Multi Combo Box Description",
+      "identifier": "customer_multi_combo",
+      "type": "Multi Combo Box",
+      "values": [
+        "Multi Combo Value 1",
+        "Multi Combo Value 2",
+        "Multi Combo Value 3"
+      ]
+    }
+  ],
+  "date": [
+    {
+      "name": "Customer Date Name",
+      "description": "Customer Date Description",
+      "identifier": "customer_date",
+      "type": "Date"
+    }
+  ],
+  "number": [
+    {
+      "name": "Customer Number Name",
+      "description": "Customer Number Description",
+      "identifier": "customer_number",
+      "type": "Number"
+    },
+    {
+      "name": "Customer Negative Number Name",
+      "description": "Customer Negative Number Description",
+      "identifier": " _customer_negative_number",
+      "type": "Number"
+    }
+  ]
+}

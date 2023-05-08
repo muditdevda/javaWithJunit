@@ -1,0 +1,677 @@
+{
+  "templates": [
+    {
+      "templateName": "Default_Automation",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Export from XLIFF",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "Default",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Export from XLIFF",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "Default_With_Provider",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "Translator, Translator",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Export from XLIFF",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "Default_Without_Provider",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Export from XLIFF",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "Default_With_Provider_Zip_files",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Merge",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "Translator, Translator",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Export from XLIFF",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "compare_files",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "Translator, Translator",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Export from XLIFF",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "compare_2nd_project",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "Translator, Translator",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "always_charge_sigma",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Proofreading",
+          "provider": "aloeProvider3, aloeProvider3",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "aloeProvider3, aloeProvider3",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "analysis",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "customer_review",
+      "steps": [
+        {
+          "service": "Translation",
+          "provider": "Translator, Translator",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "Customer Review Task",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "translation",
+      "steps": [
+        {
+          "service": "Translation",
+          "provider": "Translator, Translator",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "translationForSigma",
+      "steps": [
+        {
+          "service": "Translation",
+          "provider": "aloeProvider1, aloeProvider1",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "translationForStudio",
+      "steps": [
+        {
+          "service": "Translation",
+          "provider": "StudioIntegration, StudioIntegration",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "translationForStudioWithExport",
+      "steps": [
+        {
+          "service": "Translation",
+          "provider": "StudioIntegration, StudioIntegration",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Export from XLIFF",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "translationForStudioWithMerge",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Merge",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "StudioIntegration, StudioIntegration",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "default_With_Provider_forStudio",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "StudioIntegration, StudioIntegration",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "default_With_Provider_translator",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "Translator, Translator",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "translationPmTranslates",
+      "steps": [
+        {
+          "service": "Translation",
+          "provider": "Manager, Project",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "goldManSachs",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Merge",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Project Management",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Project Management",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Editing",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Project Management",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Quality Control",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Export from XLIFF",
+          "options": []
+        },
+        {
+          "service": "Validation and delivery",
+          "provider": "Manager, Project",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "DefaultTBoC",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "aloeProvider1, aloeProvider1",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "withoutProductivity",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Writing",
+          "provider": "aloeProvider1, aloeProvider1",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "SigmaLumpSum",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "aloeProvider1, aloeProvider1",
+          "options": []
+        },
+        {
+          "service": "Writing",
+          "provider": "aloeProvider1, aloeProvider1",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Project Management",
+          "provider": "aloeProvider2, aloeProvider2",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "helixEnabled",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "aloeProvider1, aloeProvider1",
+          "options": ["Helix"]
+        },
+        {
+          "service": "Translation",
+          "provider": "aloeProvider1, aloeProvider1",
+          "options": ["Helix"]
+        }
+        ,  {
+          "service": "Translation",
+          "provider": "aloeProvider1, aloeProvider1",
+          "options": []
+        }
+      ]
+    },
+     {
+      "templateName": "LoEDisplayErrors",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Writing",
+          "provider": "aloeProvider3, aloeProvider3",
+          "options": []
+        }
+      ]
+    },     {
+      "templateName": "helixFMT",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": ["Helix"]
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": ["Helix"]
+        },
+        {
+          "service": "Translation",
+          "provider": "aloeProvider1, aloeProvider1",
+          "options": ["Helix"]
+        },
+        {
+          "service": "Update",
+          "provider": "aloeProvider1, aloeProvider1",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "externalProvider",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "externalProvider3, externalProvider3",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "analysisPretrans",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Web Editor Task",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "Manager, Project",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Export from XLIFF",
+          "options": []
+        }
+      ]
+    },
+    {
+      "templateName": "trans_proof_wk",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Pre-translation",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Proofreading",
+          "provider": "",
+          "options": ["Send Document"]
+        }
+      ]
+    },
+    {
+      "templateName": "trans_adapt_only",
+      "steps": [
+        {
+          "service": "Translation",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Adaptation",
+          "provider": "",
+          "options": []
+        }
+      ]
+    },{
+      "templateName": "analysis_trans_adapt",
+      "steps": [
+        {
+          "service": "Flow Machine Task",
+          "provider": "MultiTrans Analysis",
+          "options": []
+        },
+        {
+          "service": "Translation",
+          "provider": "",
+          "options": []
+        },
+        {
+          "service": "Adaptation",
+          "provider": "",
+          "options": []
+        }
+      ]
+    }
+  ]
+}

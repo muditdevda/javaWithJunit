@@ -1,0 +1,126 @@
+{
+  "text_field": [
+    {
+      "name": "Contact Text Field Name",
+      "description": "Contact Text Field Description",
+      "identifier": "contact_text_field",
+      "type": "Text Field",
+      "min": 5,
+      "max": 30
+    },
+    {
+      "name": "Contact2 Text Field Name",
+      "description": "Contact2 Text Field Description",
+      "identifier": "contact_text_field2",
+      "type": "Text Field"
+    },
+    {
+      "name": "BU Text Field Name with blank",
+      "description": "BU Text Field Description with blank",
+      "identifier": " _my contact blanks",
+      "type": "Text Field"
+    }
+  ],
+  "combo_box": [
+    {
+      "name": "Contact Combo Box Name",
+      "description": "Contact Combo Box Description",
+      "identifier": "contact_combo_box",
+      "type": "Combo Box",
+      "values": [
+        "Combo Box 1",
+        "Combo Box 2",
+        "Combo Box 3"
+      ]
+    }
+  ],
+  "list": [
+    {
+      "name": "Contact List Name",
+      "description": "Contact List Description",
+      "identifier": "contact_list",
+      "type": "List",
+      "values": [
+        "List Value 1",
+        "List Value 2",
+        "List Value 3"
+      ]
+    },
+    {
+      "name": "Contact List Name with special chars",
+      "description": "Contact List Description with special chars",
+      "identifier": "*>contact_special_chars",
+      "type": "List",
+      "values": [
+        "> val 1'",
+        "> val 2'",
+        "> val 3'"
+      ]
+    },
+    {
+      "name": "Contact List Name scape",
+      "description": "Contact List Description scape",
+      "identifier": "< contact_scape >",
+      "type": "List",
+      "values": [
+        "< scape1 >",
+        "< scape2 >",
+        "< scape3 >"
+      ]
+    },
+    {
+      "name": "Contact List Name with blanks",
+      "description": "Contact List Description with blanks",
+      "identifier": " _blanks_co",
+      "type": "List",
+      "values": [
+        " blank 1",
+        " blank 2",
+        " blank 3"
+      ]
+    }
+  ],
+  "check_box":[
+    {
+      "name": "Contact Check Box Name",
+      "description": "Contact Check Box Description",
+      "identifier": "contact_check_box",
+      "type": "Check Box"
+    }
+  ],
+  "multi_combo": [
+    {
+      "name": "Contact Multi Combo Box Name",
+      "description": "Contact Multi Combo Box Description",
+      "identifier": "contact_multi_combo",
+      "type": "Multi Combo Box",
+      "values": [
+        "Multi Combo Value 1",
+        "Multi Combo Value 2",
+        "Multi Combo Value 3"
+      ]
+    }
+  ],
+  "date": [
+    {
+      "name": "Contact Date Name",
+      "description": "Contact Date Description",
+      "identifier": "contact_date",
+      "type": "Date"
+    }
+  ],
+  "number": [
+    {
+      "name": "Contact Number Name",
+      "description": "Contact Number Description",
+      "identifier": "contact_number",
+      "type": "Number"
+    },
+    {
+      "name": "Contact Negative Number Name",
+      "description": "Contact Negative Number Description",
+      "identifier": " _contact_negative_number",
+      "type": "Number"
+    }
+  ]
+}

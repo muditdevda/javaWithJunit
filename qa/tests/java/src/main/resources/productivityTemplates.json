@@ -1,0 +1,2177 @@
+{
+  "productivities": [
+    {
+      "productivityName": "provider 4",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "provider 1",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "375",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "375",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "375",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "375",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "375",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "375",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "375",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "375",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "provider 2",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "275",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "275",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "275",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "275",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "275",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "275",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "275",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "275",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "365",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "365",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "365",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "365",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "365",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "365",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "365",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "365",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "provider 3",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "440",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "440",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "440",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "440",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "440",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "440",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "440",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "440",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "234",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "234",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "234",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "234",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "234",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "234",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "234",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "234",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "Default_Productivity",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "150",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "150",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "150",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "150",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "150",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "150",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "150",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "150",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "155",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "155",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "155",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "155",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "155",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "155",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "155",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "155",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "170",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "170",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "170",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "170",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "170",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "170",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "170",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "170",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "175",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "175",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "175",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "175",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "175",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "175",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "175",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "175",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "50",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "500",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "500",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "500",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "500",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "500",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "500",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "500",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "500",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "350",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "350",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "350",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "350",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "350",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "350",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "350",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "350",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "300",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "300",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "300",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "300",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "300",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "300",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "300",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "300",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "externalProvider 1",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "externalProvider 2",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "externalProvider 3",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "externalProvider 4",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "Law",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "385",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "providerNoAloe",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "50",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "50",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "50",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "50",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "50",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "50",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "50",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "50",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "150",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "150",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "150",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "150",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "150",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "150",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "150",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "Business",
+          "source-lang": "English",
+          "target-lang": "German",
+          "capacity": "150",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "100",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "100",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "100",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "100",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "100",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "100",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "100",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Czech",
+          "capacity": "100",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "defaultTemplate",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "350",
+          "Unit": "Exact Match"
+        }
+      ]
+    },
+    {
+      "productivityName": "writingTemplate",
+      "services": [
+        {
+          "service-name": "Writing",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Writing",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Writing",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Writing",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Writing",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Writing",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Writing",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Writing",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "400",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "providerWithLittleCapacity",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "0.1",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "0.1",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "0.1",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "transBath productivity",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "Words"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Proofreading",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "French",
+          "capacity": "1000",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "providerESP",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Spanish",
+          "capacity": "350",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Spanish",
+          "capacity": "350",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Spanish",
+          "capacity": "350",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Spanish",
+          "capacity": "350",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Spanish",
+          "capacity": "350",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Spanish",
+          "capacity": "350",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Spanish",
+          "capacity": "350",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Spanish",
+          "capacity": "350",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "providerVIE",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Vietnamese",
+          "capacity": "350",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Vietnamese",
+          "capacity": "350",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Vietnamese",
+          "capacity": "350",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Vietnamese",
+          "capacity": "350",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Vietnamese",
+          "capacity": "350",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Vietnamese",
+          "capacity": "350",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Vietnamese",
+          "capacity": "350",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Vietnamese",
+          "capacity": "350",
+          "Unit": "Words"
+        }
+      ]
+    },
+    {
+      "productivityName": "providerBUL",
+      "services": [
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Bulgarian",
+          "capacity": "350",
+          "Unit": "In Context Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Bulgarian",
+          "capacity": "350",
+          "Unit": "Exact Match"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Bulgarian",
+          "capacity": "350",
+          "Unit": "From 75% to 84.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Bulgarian",
+          "capacity": "350",
+          "Unit": "From 85% to 94.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Bulgarian",
+          "capacity": "350",
+          "Unit": "From 95% to 99.99%"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Bulgarian",
+          "capacity": "350",
+          "Unit": "Fuzzy Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Bulgarian",
+          "capacity": "350",
+          "Unit": "Repetition"
+        },
+        {
+          "service-name": "Translation",
+          "service-domain": "All",
+          "source-lang": "English",
+          "target-lang": "Bulgarian",
+          "capacity": "350",
+          "Unit": "Words"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "rates": [
+    {
+      "ratesName": "externalProvider 1",
+      "services": [
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "350",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "360",
+          "Unit": "P"
+        }
+      ]
+
+    },
+    {
+      "ratesName": "externalProvider 2",
+      "services": [
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "350",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "360",
+          "Unit": "P"
+        }
+      ]
+
+    },
+    {
+      "ratesName": "externalProvider 3",
+      "services": [
+        {
+          "service": "Translation",
+          "priority": "",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "350",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "360",
+          "Unit": "P"
+        }
+      ]
+    },
+    {
+      "ratesName": "provider 1",
+      "services": [
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "1",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "2",
+          "Unit": "100%"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "3",
+          "Unit": "Fuz Rep"
+        }
+      ]
+
+    },
+    {
+      "ratesName": "provider 2",
+      "services": [
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "1",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "2",
+          "Unit": "100%"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "3",
+          "Unit": "Fuz Rep"
+        }
+      ]
+
+    },
+    {
+      "ratesName": "provider 3",
+      "services": [
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "1",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "2",
+          "Unit": "100%"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "3",
+          "Unit": "Fuz Rep"
+        }
+      ]
+
+    },
+    {
+      "ratesName": "provider 4",
+      "services": [
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "1",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "2",
+          "Unit": "100%"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "3",
+          "Unit": "Fuz Rep"
+        }
+      ]
+
+    },
+    {
+      "ratesName": "contractRates",
+      "services": [
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "5.00",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "law",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "5.25",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "SIGMA",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "5.50",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "law",
+          "category": "SIGMA",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "5.75",
+          "Unit": "W"
+        },
+        {
+          "service": "Writing",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "6.00",
+          "Unit": "W"
+        },
+        {
+          "service": "Writing",
+          "priority": "REG",
+          "domain": "law",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "6.25",
+          "Unit": "W"
+        },
+        {
+          "service": "Writing",
+          "priority": "REG",
+          "domain": "",
+          "category": "SIGMA",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "6.50",
+          "Unit": "W"
+        },
+        {
+          "service": "Writing",
+          "priority": "REG",
+          "domain": "law",
+          "category": "SIGMA",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "6.75",
+          "Unit": "W"
+        },
+        {
+          "service": "Update",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "7.00",
+          "Unit": "W"
+        },
+        {
+          "service": "Update",
+          "priority": "REG",
+          "domain": "law",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "7.25",
+          "Unit": "W"
+        },
+        {
+          "service": "Update",
+          "priority": "REG",
+          "domain": "law",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "7.50",
+          "Unit": "W"
+        },
+        {
+          "service": "Update",
+          "priority": "REG",
+          "domain": "law",
+          "category": "SIGMA",
+          "source-lang": "ENG",
+          "target-lang": "FRA",
+          "price": "7.75",
+          "Unit": "W"
+        }
+      ]
+
+    },
+    {
+      "ratesName": "contractRatesBUL",
+      "services": [
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "5.00",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "",
+          "category": "SIGMA",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "5.50",
+          "Unit": "W"
+        },
+        {
+          "service": "Translation",
+          "priority": "REG",
+          "domain": "law",
+          "category": "SIGMA",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "5.75",
+          "Unit": "W"
+        },
+        {
+          "service": "Writing",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "6.00",
+          "Unit": "W"
+        },
+        {
+          "service": "Writing",
+          "priority": "REG",
+          "domain": "law",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "6.25",
+          "Unit": "W"
+        },
+        {
+          "service": "Writing",
+          "priority": "REG",
+          "domain": "",
+          "category": "SIGMA",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "6.50",
+          "Unit": "W"
+        },
+        {
+          "service": "Writing",
+          "priority": "REG",
+          "domain": "law",
+          "category": "SIGMA",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "6.75",
+          "Unit": "W"
+        },
+        {
+          "service": "Update",
+          "priority": "REG",
+          "domain": "",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "7.00",
+          "Unit": "W"
+        },
+        {
+          "service": "Update",
+          "priority": "REG",
+          "domain": "law",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "7.25",
+          "Unit": "W"
+        },
+        {
+          "service": "Update",
+          "priority": "REG",
+          "domain": "law",
+          "category": "",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "7.50",
+          "Unit": "W"
+        },
+        {
+          "service": "Update",
+          "priority": "REG",
+          "domain": "law",
+          "category": "SIGMA",
+          "source-lang": "ENG",
+          "target-lang": "BUL",
+          "price": "7.75",
+          "Unit": "W"
+        }
+      ]
+
+    }
+  ]
+}

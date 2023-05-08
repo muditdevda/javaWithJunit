@@ -1,0 +1,143 @@
+{
+  "text_field": [
+    {
+      "name": "Provider Text Field Name",
+      "description": "Provider Text Field Description",
+      "identifier": "text_field_test",
+      "type": "Text Field",
+      "min": 5,
+      "max": 30
+    },
+    {
+      "name": "Provider2 Text Field Name",
+      "description": "Provider2 Text Field Description",
+      "identifier": "text_field_test2",
+      "type": "Text Field"
+    },
+    {
+      "name": "Another Provider Text Field Name",
+      "description": "Another Provider Text Field Description",
+      "identifier": "12345-67890-13579",
+      "type": "Text Field"
+    },
+    {
+      "name": "Provider Text Field Name with blank",
+      "description": "Provider Text Field Description with blank",
+      "identifier": " _my blanks",
+      "type": "Text Field"
+    }
+  ],
+  "combo_box": [
+    {
+      "name": "Provider Combo Box Name",
+      "description": "Provider Combo Box Description",
+      "identifier": "combo_box_test",
+      "type": "Combo Box",
+      "values": [
+        "Combo Box 1",
+        "Combo Box 2",
+        "Combo Box 3"
+      ]
+    }
+  ],
+  "list": [
+    {
+      "name": "Provider List Name",
+      "description": "Provider List Description",
+      "identifier": "list_test",
+      "type": "List",
+      "values": [
+        "List Value 1",
+        "List Value 2",
+        "List Value 3"
+      ]
+    },
+    {
+      "name": "Provider List Name with special chars",
+      "description": "Provider List Description with special chars",
+      "identifier": "*>special_chars",
+      "type": "List",
+      "values": [
+        "> val 1'",
+        "> val 2'",
+        "> val 3'"
+      ]
+    },
+    {
+      "name": "Provider List Name with blanks",
+      "description": "Provider List Description with blanks",
+      "identifier": " _blanks_pro",
+      "type": "List",
+      "values": [
+        " blank 1",
+        " blank 2",
+        " blank 3"
+      ]
+    },
+    {
+      "name": "Provider List Name scape",
+      "description": "Provider List Description scape",
+      "identifier": "< scape >",
+      "type": "List",
+      "values": [
+        "< scape1 >",
+        "< scape2 >",
+        "< scape3 >"
+      ]
+    }
+  ],
+  "check_box":[
+    {
+      "name": "Provider Check Box Name",
+      "description": "Provider Check Box Description",
+      "identifier": "check_box_test",
+      "type": "Check Box"
+    }
+  ],
+  "multi_combo": [
+    {
+      "name": "Provider Multi Combo Box Name",
+      "description": "Provider Multi Combo Box Description",
+      "identifier": "multi_combo_test",
+      "type": "Multi Combo Box",
+      "values": [
+        "Multi Combo Value 1",
+        "Multi Combo Value 2",
+        "Multi Combo Value 3"
+      ]
+    },
+    {
+      "name": "Provider Multi Combo Box Name2",
+      "description": "Provider Multi Combo Box Description2",
+      "identifier": "multi_combo_test2",
+      "type": "Multi Combo Box",
+      "values": [
+        "Multi Combo Value 11",
+        "Multi Combo Value 22",
+        "Multi Combo Value 33"
+      ]
+    }
+  ],
+  "date": [
+    {
+      "name": "Provider Date Name",
+      "description": "Provider Date Description",
+      "identifier": "date_test",
+      "type": "Date"
+    }
+  ],
+  "number": [
+    {
+      "name": "Provider Number Name",
+      "description": "Provider Number Description",
+      "identifier": "number_test",
+      "type": "Number"
+    },
+    {
+      "name": "Provider Negative Number Name",
+      "description": "Provider Negative Number Description",
+      "identifier": " _negative_number",
+      "type": "Number"
+    }
+  ]
+}

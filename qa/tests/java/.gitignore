@@ -1,0 +1,13 @@
+/target/
+.classpath
+.settings/
+.project
+/bin/
+.metadata
+/allure-report/
+/allure-results/
+.allure
+/generated/
+.vscode/
+.ajcore*
+*.iml

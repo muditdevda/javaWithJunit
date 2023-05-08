@@ -1,0 +1,33 @@
+{
+  "gmailConfigs": [
+    {
+
+      "config": {
+        "gmailNameConfig": "mudit2",
+        "username": "muditdevda@gmail.com",
+        "password": "ilitxoxuchwtmatu"
+      }
+    },
+        {
+
+
+          "config":
+            {
+              "gmailNameConfig": "multitransemailer2",
+              "username": "multitransemailer2@gmail.com",
+              "password": "wwioumaqxuaddxjj"
+            }
+        },
+        {
+
+          "config":
+            {
+              "gmailNameConfig": "multitransemailer3",
+              "username": "multitransemailer3@gmail.com",
+              "password": "ldwkahbpwqvmehmm"
+            }
+        }
+      ]
+}
+
+

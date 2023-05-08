@@ -1,0 +1,14 @@
+{
+  "CSVTemplates": [
+    {
+      "templateName": "PayAndBill",
+      "templateDescription": "Custom CSV Template with Pay(h) and Bill(h)",
+      "templateType": "Service Template",
+      "options": [
+        "(Project) - Project No",
+        "(Service) - Pay(h)",
+        "(Service) - Bill(h)"
+      ]
+    }
+   ]
+}

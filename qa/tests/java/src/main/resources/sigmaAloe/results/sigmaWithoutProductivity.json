@@ -1,0 +1,34 @@
+{
+  "serviceRateResults": [
+    {
+      "service": "Writing",
+      "ratePrice": "25.75",
+      "rateUnit": "100%",
+      "quantity": "12"
+    },
+    {
+      "service": "Writing",
+      "ratePrice": "26.00",
+      "rateUnit": "75%-85%",
+      "quantity": "4"
+    },
+    {
+      "service": "Writing",
+      "ratePrice": "26.25",
+      "rateUnit": "Fuz Rep",
+      "quantity": "1393"
+    },
+    {
+      "service": "Writing",
+      "ratePrice": "26.75",
+      "rateUnit": "Rep",
+      "quantity": "2905"
+    },
+    {
+      "service": "Writing",
+      "ratePrice": "27.00",
+      "rateUnit": "W",
+      "quantity": "19112"
+    }
+  ]
+}
